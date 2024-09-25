@@ -1,0 +1,20 @@
+﻿[
+  {
+    "id": 1,
+    "fullName": "Name1",
+    "userName": "userName1",
+    "email": "quangtn.tnq@gmail.com",
+    "passwordHash": "jolnFLMUsNkxuM/abStufNWwYHeW9v89bm+DrE70lv6kbhQPeZE2G3b6tz3kPXsioQewenZm5sBFRyOoCc+nhQ==",
+    "passwordSalt": "oBN7mxEEro7Bhk/ppLgL5S2RuPQvx1djrmDYDeMsYDsgNIfiGpWe2C7qNTeBKaVYA5uyBc02IPWBi7EYkDHpm8gMk27JbEOqMtz6+RoGXpANt76GjKmVepyG4cjMgK4EreWIfuQSxrGKViHxCWVDExnv+ScCqswH9nckGUA+8V4=",
+    "OAuthKey": "00445f8adf"
+  },
+  {
+    "id": 2,
+    "fullName": "Name2",
+    "userName": "userName2",
+    "email": "quangtn.tnq@gmail.com",
+    "passwordHash": "br+/mBrljr5/8ZSVwWwVDQbat+gvLD+QmNToGT1xvzU+/Lp/Bo40mTlDFC8HwcB/iY9pvEK8M2467sYniE1uYw==",
+    "passwordSalt": "/MxF6cj7pIMtwdWQQj3K4eH9VS6UiHrCc9g/rc1hymXk5apef6296HK9bNVj+tPN6HfIx0+VC/ZlmDUvTkO32P14TJt1ROfch0We502VUdmvLmNBXmtmjCMKnwgpbCXo8BeGnobBchrYCBAzxUll9OLZh5Vz9UhKkQxjWn6HY8w=",
+    "OAuthKey": "00445f8adf"
+  }
+]
